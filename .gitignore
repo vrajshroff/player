@@ -17,4 +17,3 @@ web-build/
 .metro-health-check*
 package-lock.json
 babel.config.js
-app.json
